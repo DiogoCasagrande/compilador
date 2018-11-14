@@ -1,0 +1,6 @@
+int a;
+char b;
+inicio
+double a;
+se (a > b){ b }
+fim
